@@ -125,4 +125,6 @@ This project walks through the full analytics lifecycle: starting from a raw dat
 
 ## Contact
 
-*(Add your name, LinkedIn, email, or portfolio link here)*
+*(keerthi prakash T, www.linkedin.com/in/keerthiprakasht
+
+,keerthiprakash.kp33@gmail.com 
